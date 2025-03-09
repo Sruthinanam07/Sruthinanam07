@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sruthinanam07
+- 👋 Hi, I’m Sruthi Nanam
 - 👀 I’m interested in Software development/full stack developer roles
 - 🌱 I’m currently learning MS in Computer Science
 - 💞️ I’m looking to collaborate on Open Source Projects
