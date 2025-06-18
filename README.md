@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Sruthi Nanam
-- 👀 I’m interested in Software development/Full stack developer roles
-- 🌱 I’m currently learning MS in Computer Science
-- 💞️ I’m looking to collaborate on Open Source Projects
+- 👀 I’m always interested in learning and executing.
+- 🌱 I’m currently pursuing MS in Computer Science
+- 💞️ I’m looking to collaborate on Open Source Projects and contributing to real-world tech solutions
+- 💬 Always up for a good discussion on emerging tech trends.
+- 🤗 Excited to meet and greet people who are passionate about tech and eager to learn together!
 - 📫 How to reach me :: click this -> https://www.linkedin.com/in/sruthi-nanam/
 
 
