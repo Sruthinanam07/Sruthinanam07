@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sruthi Nanam
 - 👀 I’m always interested in learning and executing.
-- 🌱 I’m currently pursuing MS in Computer Science and working as Software Engineer Intern at Aptiv.
+- 🌱 I’m currently a graduate MS in Computer Science and working as Android Dev & ML Expert.
 - 💞️ I’m looking to collaborate on Open Source Projects and contributing to real-world tech solutions
 - 💬 Always up for a good discussion on emerging tech trends.
 - 🤗 Excited to meet and greet people who are passionate about tech and eager to learn together!
