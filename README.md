@@ -7,23 +7,21 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sruthi_Nanam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sruthi-nanam)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://sruthinanam07.github.io)
 [![PrivacyNet](https://img.shields.io/badge/PrivacyNet-Live_Demo-22D3EE?style=for-the-badge&logo=railway&logoColor=white)](https://privacynet-production.up.railway.app)
+[![GitHub](https://img.shields.io/badge/privacynet-Source_Code-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sruthinanam07/privacynet)
 
 </div>
 
 ---
-
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Sruthinanam07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=CDD6F4&rank_icon=github"/>
 
 ### 👩‍💻 About Me
 
 ```typescript
 const sruthi = {
   role:       "Software Engineer + AI Builder",
-  education:  "MS CS @ Wayne State (GPA: 3.92)",
+  education:  "MS CS @ Wayne State  |  GPA: 3.92",
   location:   "United States 🇺🇸",
-  seeking:    "SWE Full Time 2026",
+  seeking:    "SWE Full Time 2026 🚀",
   currently:  "Android Dev @ Uplifty AI",
   passion:    "Building products that fix real problems",
   funFact:    "I built PrivacyNet because I got 11 spam
@@ -31,38 +29,21 @@ const sruthi = {
 };
 ```
 
-<br clear="right"/>
-
 ---
 
 ### 🚀 Featured Project — PrivacyNet
 
-<div align="center">
+**Privacy-first professional networking platform** — where a Claude AI agent automatically detects and masks your personal contact information in comments, so only the right people can see it.
 
-> *"When you comment your email under a job post, it's visible to everyone. I built something to fix that."*
+**The problem:** When you comment your email under a job post on LinkedIn, it's visible to everyone — strangers, fake recruiters, bots.
 
-</div>
+**The solution:** PrivacyNet intercepts every comment before it's saved. The real email never touches the database — replaced with a token, encrypted with AES-256, locked in a separate vault. The post author sees the real email. Everyone else sees `[email hidden]`.
 
-```
-User comments email@example.com
-         ↓
-  Claude AI scans for PII
-         ↓
-Real value → AES-256 encrypted → pii_vault table
-Token      → [PII:email:uuid]  → comments table
-         ↓
-Post Author  →  sees real email  ✅
-Commenter    →  sees own email   ✅
-Everyone else → [email hidden]  🔒
-```
+**Why AI and not Regex?** People write *"reach me at sruthi dot nanam at gmail"* to avoid detection. Claude understands natural language. Regex doesn't.
 
-<div align="center">
+🔗 **[Live Demo](https://privacynet-production.up.railway.app)** &nbsp;|&nbsp; 💻 **[Source Code](https://github.com/Sruthinanam07/privacynet)**
 
-[![PrivacyNet Repo](https://github-readme-stats.vercel.app/api/pin/?username=Sruthinanam07&repo=privacynet&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=CDD6F4)](https://github.com/Sruthinanam07/privacynet)
-
-**[🔗 Live Demo](https://privacynet-production.up.railway.app)** &nbsp;|&nbsp; **[💻 Source Code](https://github.com/Sruthinanam07/privacynet)**
-
-</div>
+`React` `Node.js` `PostgreSQL` `Claude AI` `AES-256` `JWT` `Railway`
 
 ---
 
@@ -109,50 +90,32 @@ Everyone else → [email hidden]  🔒
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sruthinanam07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CDD6F4&langs_count=8"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Sruthinanam07&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA"/>
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sruthinanam07&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### 💼 Experience Highlights
+### 💼 Experience
 
 | Company | Role | Impact |
 |---|---|---|
-| **Uplifty AI** | Android Developer | Auth flows, AWS Lambda & DynamoDB integration |
-| **Handshake AI** | ML Expert | LLM behavior analysis, alignment detection |
+| **Uplifty AI** | Android Developer | Auth flows + AWS Lambda & DynamoDB integration |
+| **Handshake AI** | ML Expert | LLM alignment detection + behavior analysis |
 | **NeuralSeek** | AI Agent Intern | Multi-agent workflows on AWS |
-| **Aptiv** | SWE Intern | $345K in cost savings across 2 projects |
+| **Aptiv** | SWE Intern | $345K saved across 2 automation projects |
 | **Teana Lab** | Research Assistant | 35% engagement boost with AI coach |
+| **EduSkills** | AWS Cloud Intern | Migrated 10K/mo website to AWS |
 
 ---
 
-### 🎯 What I'm Building Next
+### What I'm Building Next
 
 - 🔔 Real-time notifications with WebSockets for PrivacyNet
 - 👥 Follow system for personalized feeds
-- 📱 React Native mobile app
 - 🔐 Redis caching layer for scale
+- 📱 Mobile app with React Native
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Sruthinanam07&color=A78BFA&style=flat-square&label=Profile+Views)
 
-**Open to Full Time SWE roles — Let's connect!**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
