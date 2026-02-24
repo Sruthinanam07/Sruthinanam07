@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sruthi_Nanam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sruthi-nanam)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://sruthinanam07.github.io)
 [![PrivacyNet](https://img.shields.io/badge/PrivacyNet-Live_Demo-22D3EE?style=for-the-badge&logo=railway&logoColor=white)](https://privacynet-production.up.railway.app)
-[![Email](https://img.shields.io/badge/Email-sruthinanam18@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sruthinanam18@gmail.com)
 
 </div>
 
